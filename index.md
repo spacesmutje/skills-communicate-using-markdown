@@ -24,3 +24,10 @@ All good things are... 5?
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+## Pancake recipe
+
+- [x] eggs
+- [x] milk
+- [x] flour
+- [ ] champagne
